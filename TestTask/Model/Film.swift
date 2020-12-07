@@ -18,5 +18,4 @@ class Film {
         self.rusFilmName = rusFilmName
         self.engFilmName = engFilmName
     }
-
 }

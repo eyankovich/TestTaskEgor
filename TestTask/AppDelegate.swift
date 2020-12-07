@@ -23,11 +23,8 @@ var window: UIWindow?
             window.rootViewController = navigationController
             window.makeKeyAndVisible()
         }
-        
         return true
     }
-
-   
 }
 
    
