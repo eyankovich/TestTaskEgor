@@ -7,16 +7,15 @@
 
 import UIKit
 
+// MARK: - Class for Film List Cell
 class Film {
-    
     var image: UIImage
     var rusFilmName: String
     var engFilmName: String
-    
+
     init(image: UIImage, rusFilmName: String, engFilmName: String) {
         self.image = image
         self.rusFilmName = rusFilmName
         self.engFilmName = engFilmName
     }
-
 }
